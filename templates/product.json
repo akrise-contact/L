@@ -286,7 +286,7 @@
         "subheading": "",
         "title": "",
         "content": "<h3><strong>Rejoignez +50 000 de femmes qui prennent soin de leur peau</strong></h3>",
-        "background": "#468c04",
+        "background": "#74aa46",
         "background_gradient": "",
         "text_color": "#ffffff"
       }
@@ -517,86 +517,102 @@
         "heading_gradient": ""
       }
     },
-    "multi_column_QzepWA": {
-      "type": "multi-column",
+    "faq_37bbf7": {
+      "type": "faq",
       "blocks": {
-        "item_ep389D": {
+        "item_mRDrEK": {
           "type": "item",
           "settings": {
-            "column_size": "3",
-            "title": "Column title",
-            "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
+            "title": "1. En quoi ce masque est-il différent des masques classiques ?",
+            "content": "<p>Contrairement aux masques traditionnels, il se transforme en mousse pétillante qui aspire impuretés et points noirs en profondeur, tout en apaisant la peau grâce au basilic sacré.</p>"
           }
         },
-        "item_dgnPBK": {
+        "item_XXxycw": {
           "type": "item",
           "settings": {
-            "column_size": "3",
-            "title": "Column title",
-            "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
+            "title": "2. Convient-il à ma peau sensible ?",
+            "content": "<p>Oui ! Sa formule douce à base d’argile coréenne, sans parabènes, sulfates ni parfum, est adaptée même aux peaux réactives ou sujettes aux imperfections.</p><p>Le processus de bulles est 100 % doux. Vous ressentirez seulement une légère effervescence agréable, signe que le masque agit.</p>"
           }
         },
-        "item_8xqrkJ": {
+        "item_cNzDYY": {
           "type": "item",
           "settings": {
-            "column_size": "3",
-            "title": "Column title",
-            "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
+            "title": "3. Combien de fois par semaine dois-je l’utiliser ?",
+            "content": "<p>Nous conseillons 2 à 3 utilisations par semaine. Suffisamment puissant pour purifier en profondeur, assez doux pour un usage régulier.</p><p>En le laissant poser entre 3 et 5 minutes. C’est le temps nécessaire pour que les bulles se forment et agissent en profondeur.</p>"
+          }
+        },
+        "item_gdRriY": {
+          "type": "item",
+          "settings": {
+            "title": "4. Puis-je l’utiliser avec ma routine actuelle ?",
+            "content": "<p>Absolument. Utilisez-le après votre nettoyant et avant votre toner ou sérum. Il s’intègre facilement à toute routine de soin.</p>"
+          }
+        },
+        "item_ijbYWJ": {
+          "type": "item",
+          "settings": {
+            "title": "5. En combien de temps vais-je voir des résultats ?",
+            "content": "<p>Dès la première utilisation, la peau paraît plus nette et lumineuse. Après une semaine d’utilisation régulière, les tests cliniques montrent jusqu’à 50 % de réduction des points noirs et du sébum.</p>"
+          }
+        },
+        "item_PG9LrJ": {
+          "type": "item",
+          "settings": {
+            "title": "6. Et si je ne suis pas satisfait ?",
+            "content": "<p>Pas d’inquiétude : vous êtes couvert par notre garantie 30 jours satisfait ou remboursé. Si vous n’êtes pas ravi, nous vous remboursons sans poser de questions.</p>"
           }
         }
       },
       "block_order": [
-        "item_ep389D",
-        "item_dgnPBK",
-        "item_8xqrkJ"
+        "item_mRDrEK",
+        "item_XXxycw",
+        "item_cNzDYY",
+        "item_gdRriY",
+        "item_ijbYWJ",
+        "item_PG9LrJ"
       ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "start",
-        "subheading": "About",
-        "title": "Featured content",
-        "content": "<p>Organize content into multiple columns to share useful information to your customers about your products, values...</p>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "before_after_image_d7zN6a": {
-      "type": "before-after-image",
-      "name": "Before/after image",
+      "name": "FAQ",
       "settings": {
         "full_width": true,
         "subheading": "",
-        "title": "Before/after",
-        "content": "<p>Showcase your product benefit by using before/after image comparison.</p>",
-        "expand_image": false,
+        "title": "Vos Questions",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "",
+        "answer_time": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "#74aa46",
+        "background_gradient": "",
+        "text_color": "#ffffff",
+        "heading_color": "#ffffff",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "#ffffff",
+        "accordion_background": "#3c7803",
+        "accordion_text_color": ""
+      }
+    },
+    "contact_tGApiG": {
+      "type": "contact",
+      "name": "Contact form",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Vous avez encore des question?",
+        "content": "<p>Notre équipe est là pour vous !</p>",
         "text_position": "start",
-        "before_after_text_position": "top",
-        "before_text": "Before",
-        "after_text": "After",
-        "drag_initial_position": 50,
+        "contact_form_size": "large",
         "background": "",
         "background_gradient": "",
         "text_color": "",
-        "before_text_color": "#ffffff",
-        "after_text_color": "#ffffff",
-        "drag_cursor_background": "#ffffff",
-        "drag_cursor_color": "#000000"
+        "heading_color": "",
+        "heading_gradient": "",
+        "contact_background": "",
+        "contact_text_color": "",
+        "button_background": "",
+        "button_text_color": ""
       }
     }
   },
@@ -610,7 +626,7 @@
     "main",
     "text_with_icons_cX9RFa",
     "tabs_QfBJcy",
-    "multi_column_QzepWA",
-    "before_after_image_d7zN6a"
+    "faq_37bbf7",
+    "contact_tGApiG"
   ]
 }
