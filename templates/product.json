@@ -294,10 +294,28 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "title_WUgcqe": {
-          "type": "title",
+        "text_8kwRaB": {
+          "type": "text",
           "settings": {
-            "heading_tag": "h2"
+            "text": "<h1>Basil Glow Bubble Mask - LiveLya</h1>"
+          }
+        },
+        "liquid_Ax79mw": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"display: flex; align-items: center; gap: 4px; font-size: 18px;\">\n  {% for i in (1..5) %}\n    <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"#468C04 \" viewBox=\"0 0 24 24\" width=\"18\" height=\"18\">\n      <path d=\"M12 .587l3.668 7.571L24 9.748l-6 5.847L19.335 24 12 19.897 4.665 24 6 15.595 0 9.748l8.332-1.59z\"/>\n    </svg>\n  {% endfor %}\n  <span style=\"color: #333; font-size: 14px; margin-left: 4px;\">(1, 584 avis)</span>\n</div>"
+          }
+        },
+        "liquid_7R73i9": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div id=\"stock-alert\" style=\"margin-top:10px; font-size:15px; color:#b91c1c; font-weight:500;\">\n  ⚠️ Stock limité – seulement <strong id=\"stock-number\">5</strong> unités restantes !\n</div>"
+          }
+        },
+        "liquid_WNbzQc": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<ul class=\"list-none space-y-2\">\n  <li>✨ Un éclat visible dès la 1ère utilisation </li>\n  <li>🫧 Des bulles magiques qui purifient la peau </li>\n  <li>🌿 Formule naturelle douce et efficace </li>\n  <li>🛡️ Adapté à tous les types de peaux </li>\n  <li>✅ Garantie satisfait ou remboursé 30 jours </li>\n</ul>"
           }
         },
         "buy_buttons": {
@@ -319,7 +337,10 @@
         }
       },
       "block_order": [
-        "title_WUgcqe",
+        "text_8kwRaB",
+        "liquid_Ax79mw",
+        "liquid_7R73i9",
+        "liquid_WNbzQc",
         "buy_buttons",
         "liquid_PhiaPw"
       ],
@@ -327,10 +348,10 @@
         "full_width": true,
         "show_fixed_add_to_cart": true,
         "desktop_media_width": 55,
-        "desktop_media_layout": "carousel_thumbnails_left",
-        "mobile_media_size": "expanded",
-        "mobile_carousel_control": "floating_dots",
-        "enable_video_autoplay": false,
+        "desktop_media_layout": "carousel_thumbnails_bottom",
+        "mobile_media_size": "contained",
+        "mobile_carousel_control": "free_scroll",
+        "enable_video_autoplay": true,
         "enable_video_looping": true,
         "enable_image_zoom": true,
         "max_image_zoom_level": 3,
@@ -344,19 +365,6 @@
     "text_with_icons_cX9RFa": {
       "type": "text-with-icons",
       "blocks": {
-        "item_tcpUUm": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-box",
-            "mobile_icon_width": 32,
-            "icon_width": 32,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "#19233e",
-            "title": "Livraison gratuite",
-            "content": ""
-          }
-        },
         "item_TXNCmR": {
           "type": "item",
           "settings": {
@@ -411,7 +419,6 @@
         }
       },
       "block_order": [
-        "item_tcpUUm",
         "item_TXNCmR",
         "item_hwnUQ7",
         "item_R6r47b",
