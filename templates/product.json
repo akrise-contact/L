@@ -147,46 +147,6 @@
         "overlay_opacity": 0
       }
     },
-    "images_with_text_scrolling_46hVA3": {
-      "type": "images-with-text-scrolling",
-      "blocks": {
-        "item_63q7QJ": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Heading 1",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        },
-        "item_Xqik3U": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Heading 2",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_63q7QJ",
-        "item_Xqik3U"
-      ],
-      "name": "Images and text scrolling",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "show_counter": true,
-        "desktop_image_effect": "reveal",
-        "image_position": "end",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
     "multi_column_kCFiMh": {
       "type": "multi-column",
       "blocks": {
@@ -282,11 +242,11 @@
         "full_width": true,
         "stack_on_mobile": false,
         "gap": "medium",
-        "text_alignment": "start",
-        "subheading": "About",
-        "title": "Featured content",
-        "content": "<p>Organize content into multiple columns to share useful information to your customers about your products, values...</p>",
-        "background": "",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "",
+        "content": "<h3>Rejoignez +50 000 de femmes sauvés en 5 min </h3>",
+        "background": "#f0f0f0",
         "background_gradient": "",
         "text_color": ""
       }
@@ -344,6 +304,19 @@
     "text_with_icons_cX9RFa": {
       "type": "text-with-icons",
       "blocks": {
+        "item_tcpUUm": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-box",
+            "mobile_icon_width": 32,
+            "icon_width": 32,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "#19233e",
+            "title": "Livraison gratuite",
+            "content": ""
+          }
+        },
         "item_TXNCmR": {
           "type": "item",
           "settings": {
@@ -355,6 +328,19 @@
             "icon_color": "",
             "title": "Free shipping",
             "content": "<p>Free worldwide shipping and returns - customs and duties taxes included</p>"
+          }
+        },
+        "item_hwnUQ7": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Heading",
+            "content": "<p>Short content about your store</p>"
           }
         },
         "item_R6r47b": {
@@ -385,7 +371,9 @@
         }
       },
       "block_order": [
+        "item_tcpUUm",
         "item_TXNCmR",
+        "item_hwnUQ7",
         "item_R6r47b",
         "item_TtCWGc"
       ],
@@ -402,45 +390,63 @@
         "text_color": ""
       }
     },
-    "tabs_fD6Tn8": {
+    "tabs_QfBJcy": {
       "type": "tabs",
       "blocks": {
-        "tab_cBmrgX": {
+        "tab_MaDRjT": {
           "type": "tab",
           "settings": {
-            "title": "Tab 1",
-            "content": "<p>Use this text to share information about your brand with your customers.</p>",
+            "title": "Caractéristique",
+            "content": "<p>Le Dravence Pro est un rasoir 5-en-1 haut de gamme, conçu en ABS et acier inoxydable pour une durabilité optimale. Doté de 5 têtes flottantes 4D, il s’adapte aux contours du crâne et du visage pour un rasage précis et confortable. Son design plaqué or allie style et virilité. </p><p>Les lames auto-affûtées offrent une performance constante pendant environ 50 rasages (1 mois). Rechargeable par USB (5h de charge), il offre jusqu’à une semaine d’autonomie. Tension universelle 110-240V, parfait pour les déplacements.<br/><br/></p>",
             "page": ""
           }
         },
-        "tab_LaQzgF": {
+        "tab_x8EGK8": {
           "type": "tab",
           "settings": {
-            "title": "Tab 2",
-            "content": "<p>Describe a product, share announcements, or welcome customers to your store.</p>",
+            "title": "Ce qui est compris dans le Kit DRAVENCE PRO",
+            "content": "<p></p><p><strong>Inclus dans le pack :</strong><br/>-Rasoir DRAVENCE PRO<br/>-Tête de rasoir ScalpSafe<br/>-Câble de chargement USB</p><p><strong>Accessoires offerts :</strong><br/>-Tondeuse de précision (gratuite)<br/>-Tondeuse nez et oreilles (gratuite)<br/>-Brosse de nettoyage (gratuite)<br/>-Brosse exfoliante en silicone (gratuit)<br/>-Micro brosse de nettoyage (gratuite)</p>",
             "page": ""
           }
         },
-        "tab_gPPPWQ": {
+        "tab_hi8UPx": {
           "type": "tab",
           "settings": {
-            "title": "Tab 3",
-            "content": "<p>Share information about your shipping rates, return policy or contact information.</p>",
+            "title": "Essai 30 jours – Satisfait ou remboursé",
+            "content": "<p>Essayez Basil Glow sans risque pendant 30 jours, et si vous n'êtes pas satisfait recevez une remboursement intégral !</p>",
+            "page": ""
+          }
+        },
+        "tab_Jtgjp8": {
+          "type": "tab",
+          "settings": {
+            "title": "Livraison gratuite à domicile",
+            "content": "<p>Votre commande est expédiée sous 24 à 48h, avec une livraison offerte en 5 à 10 jours ouvrés selon votre région.</p>",
+            "page": ""
+          }
+        },
+        "tab_nLT7VX": {
+          "type": "tab",
+          "settings": {
+            "title": "Service client 7/7j",
+            "content": "<p>Une question ? Un doute ?<br/><br/>Notre équipe te répond chaque jour, même le week-end.<br/><br/>Par email ou via notre formulaire : rapide, humain, efficace.</p>",
             "page": ""
           }
         }
       },
       "block_order": [
-        "tab_cBmrgX",
-        "tab_LaQzgF",
-        "tab_gPPPWQ"
+        "tab_MaDRjT",
+        "tab_x8EGK8",
+        "tab_hi8UPx",
+        "tab_Jtgjp8",
+        "tab_nLT7VX"
       ],
       "name": "Tabs",
       "settings": {
         "full_width": true,
         "content_size": "medium",
-        "subheading": "Subheading",
-        "title": "Heading",
+        "subheading": "",
+        "title": "",
         "text_alignment": "center",
         "first_tab_open": false,
         "background": "",
@@ -538,11 +544,10 @@
     "logo_list_PnH9aq",
     "rich_text_JyHXaD",
     "image_with_text_overlay_tYkkgm",
-    "images_with_text_scrolling_46hVA3",
     "multi_column_kCFiMh",
     "main",
     "text_with_icons_cX9RFa",
-    "tabs_fD6Tn8",
+    "tabs_QfBJcy",
     "multi_column_QzepWA",
     "before_after_image_d7zN6a"
   ]
