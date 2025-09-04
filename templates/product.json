@@ -603,7 +603,7 @@
         "title": "Vous avez encore des question?",
         "content": "<p>Notre équipe est là pour vous !</p>",
         "text_position": "start",
-        "contact_form_size": "large",
+        "contact_form_size": "small",
         "background": "",
         "background_gradient": "",
         "text_color": "",
