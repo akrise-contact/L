@@ -15,27 +15,20 @@
         "subheading_kpaQET": {
           "type": "subheading",
           "settings": {
-            "text": "Subheading"
+            "text": "Découvrez le secret beauté coréen"
           }
         },
         "heading_KwJgti": {
           "type": "heading",
           "settings": {
-            "text": "Image with text overlay",
-            "heading_tag": "h1"
-          }
-        },
-        "richtext_4iaqAt": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "text": "Des milliers de bulles apaisantes qui transforment votre peau en 5 minutes.",
+            "heading_tag": "h2"
           }
         }
       },
       "block_order": [
         "subheading_kpaQET",
-        "heading_KwJgti",
-        "richtext_4iaqAt"
+        "heading_KwJgti"
       ],
       "name": "Image with text overlay",
       "settings": {
@@ -43,11 +36,13 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/Design_sans_titre_2156.png",
+        "mobile_image": "shopify://shop_images/Design_sans_titre_2156.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 43
       }
     },
     "logo_list_PnH9aq": {
@@ -56,6 +51,7 @@
         "logo_mdWfxt": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/logo-ELLE-500x281.png",
             "logo_width": 120,
             "link": ""
           }
@@ -63,6 +59,7 @@
         "logo_KpbWfF": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Vogue-Logo-PNG.png",
             "logo_width": 120,
             "link": ""
           }
@@ -70,6 +67,7 @@
         "logo_iJ7JCz": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/madspy-image-1756979453599.png",
             "logo_width": 120,
             "link": ""
           }
@@ -77,13 +75,7 @@
         "logo_TQUVXW": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
-            "link": ""
-          }
-        },
-        "logo_DabqTH": {
-          "type": "logo",
-          "settings": {
+            "logo": "shopify://shop_images/Marie-Claire-Logo-500x281.png",
             "logo_width": 120,
             "link": ""
           }
@@ -93,16 +85,15 @@
         "logo_mdWfxt",
         "logo_KpbWfF",
         "logo_iJ7JCz",
-        "logo_TQUVXW",
-        "logo_DabqTH"
+        "logo_TQUVXW"
       ],
       "name": "Logo list",
       "settings": {
         "full_width": true,
         "stack_mobile": true,
-        "title": "Logo list",
+        "title": "Vu sur:",
         "content": "",
-        "text_alignment": "start",
+        "text_alignment": "center",
         "items_per_row": 5,
         "background": "",
         "background_gradient": "",
@@ -116,32 +107,18 @@
     "rich_text_JyHXaD": {
       "type": "rich-text",
       "blocks": {
-        "subheading_6kRdmp": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
         "heading_VmDeWj": {
           "type": "heading",
           "settings": {
-            "text": "Heading",
-            "heading_tag": "h1",
+            "text": "Pourquoi Basil Glow ?",
+            "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
-          }
-        },
-        "richtext_recwQN": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
           }
         }
       },
       "block_order": [
-        "subheading_6kRdmp",
-        "heading_VmDeWj",
-        "richtext_recwQN"
+        "heading_VmDeWj"
       ],
       "name": "Rich text",
       "settings": {
@@ -155,43 +132,19 @@
     },
     "image_with_text_overlay_tYkkgm": {
       "type": "image-with-text-overlay",
-      "blocks": {
-        "subheading_RFL4rg": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
-        "heading_VnAHKK": {
-          "type": "heading",
-          "settings": {
-            "text": "Image with text overlay",
-            "heading_tag": "h1"
-          }
-        },
-        "richtext_gJFT8f": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_RFL4rg",
-        "heading_VnAHKK",
-        "richtext_gJFT8f"
-      ],
       "name": "Image with text overlay",
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/6_benefices151.png",
+        "mobile_image": "shopify://shop_images/6_benefices151.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 0
       }
     },
     "images_with_text_scrolling_46hVA3": {
