@@ -147,6 +147,46 @@
         "overlay_opacity": 0
       }
     },
+    "images_with_text_scrolling_pwNrze": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_YyX4Wk": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Heading 1",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        },
+        "item_Pfrn98": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Heading 2",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_YyX4Wk",
+        "item_Pfrn98"
+      ],
+      "name": "Images and text scrolling",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "show_counter": true,
+        "desktop_image_effect": "reveal",
+        "image_position": "end",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
     "multi_column_kCFiMh": {
       "type": "multi-column",
       "blocks": {
@@ -245,10 +285,10 @@
         "text_alignment": "center",
         "subheading": "",
         "title": "",
-        "content": "<h3>Rejoignez +50 000 de femmes sauvés en 5 min </h3>",
-        "background": "#f0f0f0",
+        "content": "<h3><strong>Rejoignez +50 000 de femmes qui prennent soin de leur peau</strong></h3>",
+        "background": "#468c04",
         "background_gradient": "",
-        "text_color": ""
+        "text_color": "#ffffff"
       }
     },
     "main": {
@@ -397,15 +437,15 @@
           "type": "tab",
           "settings": {
             "title": "Caractéristique",
-            "content": "<p>Le Dravence Pro est un rasoir 5-en-1 haut de gamme, conçu en ABS et acier inoxydable pour une durabilité optimale. Doté de 5 têtes flottantes 4D, il s’adapte aux contours du crâne et du visage pour un rasage précis et confortable. Son design plaqué or allie style et virilité. </p><p>Les lames auto-affûtées offrent une performance constante pendant environ 50 rasages (1 mois). Rechargeable par USB (5h de charge), il offre jusqu’à une semaine d’autonomie. Tension universelle 110-240V, parfait pour les déplacements.<br/><br/></p>",
+            "content": "<p>✅ <strong>Purification Profonde des Pores & Points Noirs</strong><br/><br/>Grâce à l’eau carbonatée, au basilic sacré et aux PHA, ce masque pénètre en profondeur pour dissoudre les impuretés, réguler le sébum et révéler une peau plus lisse et fraîche à chaque utilisation.</p><p>✅ <strong>Formule Ultra-Douce, Tous Types de Peaux</strong><br/><br/>Composée de plantes premium et sans 20 additifs controversés, cette formule est sûre, apaisante et efficace, même pour les peaux sensibles ou sujettes à l’acné.</p><p>✅ <strong>Résultats Cliniquement Prouvés</strong><br/><br/>Testé en laboratoire : purification des pores à hauteur de 23 %, réduction des points noirs et du sébum de plus de 50 % — sans irritation ni dessèchement, avec une composition 100 % naturelle.</p>",
             "page": ""
           }
         },
         "tab_x8EGK8": {
           "type": "tab",
           "settings": {
-            "title": "Ce qui est compris dans le Kit DRAVENCE PRO",
-            "content": "<p></p><p><strong>Inclus dans le pack :</strong><br/>-Rasoir DRAVENCE PRO<br/>-Tête de rasoir ScalpSafe<br/>-Câble de chargement USB</p><p><strong>Accessoires offerts :</strong><br/>-Tondeuse de précision (gratuite)<br/>-Tondeuse nez et oreilles (gratuite)<br/>-Brosse de nettoyage (gratuite)<br/>-Brosse exfoliante en silicone (gratuit)<br/>-Micro brosse de nettoyage (gratuite)</p>",
+            "title": "Ingrédients & Bienfaits",
+            "content": "<p>Eau, argile kaolin, glycérine, extrait de feuille de basilic sacré (Ocimum Sanctum) et acide polyhydroxy (PHA).</p><p>Un mélange naturel, doux mais puissant, conçu pour purifier, hydrater, apaiser et exfolier légèrement.<br/><br/>Sans alcool, sans parfum, sans additifs agressifs.</p>",
             "page": ""
           }
         },
@@ -544,6 +584,7 @@
     "logo_list_PnH9aq",
     "rich_text_JyHXaD",
     "image_with_text_overlay_tYkkgm",
+    "images_with_text_scrolling_pwNrze",
     "multi_column_kCFiMh",
     "main",
     "text_with_icons_cX9RFa",
