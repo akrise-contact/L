@@ -176,10 +176,10 @@
             "link_style": "link"
           }
         },
-        "item_mhRt4x": {
+        "item_ExTUPn": {
           "type": "item",
           "settings": {
-            "video": "shopify://files/videos/a885e32a52534709af06bc1e647d2799.HD-1080p-4.8Mbps-55064483.mp4",
+            "video": "shopify://files/videos/58f3e21af80c4734a08a66e8f567cc11.HD-1080p-7.2Mbps-53342364_491a84df-ad47-4ec2-9bdb-2fd84d84a77b.mp4",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
@@ -215,10 +215,10 @@
             "link_style": "link"
           }
         },
-        "item_ExTUPn": {
+        "item_mhRt4x": {
           "type": "item",
           "settings": {
-            "video": "shopify://files/videos/58f3e21af80c4734a08a66e8f567cc11.HD-1080p-7.2Mbps-53342364_491a84df-ad47-4ec2-9bdb-2fd84d84a77b.mp4",
+            "video": "shopify://files/videos/a885e32a52534709af06bc1e647d2799.HD-1080p-4.8Mbps-55064483.mp4",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
@@ -232,10 +232,10 @@
       "block_order": [
         "item_HBYcnd",
         "item_JJwARH",
-        "item_mhRt4x",
+        "item_ExTUPn",
         "item_PmeKBp",
         "item_LTkyBG",
-        "item_ExTUPn"
+        "item_mhRt4x"
       ],
       "name": "Multi-column",
       "settings": {
@@ -269,7 +269,7 @@
         "liquid_7R73i9": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div id=\"stock-alert\" style=\"margin-top:10px; font-size:15px; color:#b91c1c; font-weight:500;\">\n  ⚠️ Stock limité – seulement <strong id=\"stock-number\">5</strong> unités restantes !\n</div>"
+            "liquid": "<div id=\"stock-alert\" style=\"margin-top:10px; font-size:15px; color:#b91c1c; font-weight:500;\">\n  ⚠️ Stock limité – seulement <strong id=\"stock-number\">7</strong> unités restantes !\n</div>"
           }
         },
         "liquid_WNbzQc": {
