@@ -465,7 +465,7 @@
       "name": "Tabs",
       "settings": {
         "full_width": true,
-        "content_size": "medium",
+        "content_size": "small",
         "subheading": "",
         "title": "",
         "text_alignment": "center",
@@ -475,6 +475,98 @@
         "text_color": "",
         "heading_color": "",
         "heading_gradient": ""
+      }
+    },
+    "images_with_text_scrolling_XKKeLA": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_hJtEKh": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-09-06_163428_2808ad8b-080b-46f6-acbc-c4aa4b356c27.png",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Préparation et application",
+            "content": "<p>Après avoir nettoyé votre visage,  appliquez une couche uniforme sur votre peau propre et sèche. Répartissez uniformément sur tout le visage.</p>"
+          }
+        },
+        "item_JfgbJQ": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-09-06_163447_9dd924ba-55d6-4d5a-93d0-7f1f77985f98.png",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Temps de pose magique",
+            "content": "<p>Attendez 3-5 minutes pour les bulles et regardez la magie opérer ! Les bulles commencent à se former sur votre visage. C'est le moment parfait pour prendre un selfie satisfaisant !</p>"
+          }
+        },
+        "item_XaPFrx": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-09-06_163542_81fbfc87-8a29-4693-82f5-80fde9677255.png",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Massage doux",
+            "content": "<p>Massez délicatement avec de l'eau<br/>Humidifiez vos mains avec un peu d'eau tiède et massez doucement votre visage en mouvements circulaires. Les bulles vont créer une mousse onctueuse.</p>"
+          }
+        },
+        "item_dEnjNK": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-09-06_163618_aadf6a12-b2a9-4efb-b0b9-2dac40300621.png",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Rinçage final",
+            "content": "<p>Rincez à l'eau tiède jusqu'à élimination complète du produit. Séchez en tapotant avec une serviette propre </p>"
+          }
+        },
+        "item_pn7qan": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-09-06_163641_69b222e0-bf15-4ca8-851b-28cbb2e865b0.png",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "✨ Résultat : Une peau purifiée, douce et éclatante !",
+            "content": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_hJtEKh",
+        "item_JfgbJQ",
+        "item_XaPFrx",
+        "item_dEnjNK",
+        "item_pn7qan"
+      ],
+      "name": "Images and text scrolling",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "show_counter": true,
+        "desktop_image_effect": "reveal",
+        "image_position": "end",
+        "background": "#74aa46",
+        "background_gradient": "",
+        "text_color": "#ffffff",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "image_with_text_overlay_QHYGbw": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Ajouter_un_titre_18802578-8274-4eca-a1c3-752e51fa2937.png",
+        "mobile_image": "shopify://shop_images/Ajouter_un_titre_18802578-8274-4eca-a1c3-752e51fa2937.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
       }
     },
     "faq_37bbf7": {
@@ -543,15 +635,15 @@
         "button_text": "",
         "button_url": "",
         "text_position": "center",
-        "background": "#74aa46",
+        "background": "#c4d6ae",
         "background_gradient": "",
         "text_color": "#ffffff",
         "heading_color": "#ffffff",
         "heading_gradient": "",
         "button_background": "",
-        "button_text_color": "#ffffff",
-        "accordion_background": "#3c7803",
-        "accordion_text_color": ""
+        "button_text_color": "#1a1a1a",
+        "accordion_background": "#92bb6f",
+        "accordion_text_color": "#ffffff"
       }
     },
     "1757164787486f866c": {
@@ -587,7 +679,7 @@
       "settings": {
         "full_width": true,
         "subheading": "",
-        "title": "Vous avez encore des question?",
+        "title": "Une question?",
         "content": "<p>Notre équipe est là pour vous !</p>",
         "text_position": "start",
         "contact_form_size": "small",
@@ -639,6 +731,8 @@
     "main",
     "text_with_icons_cX9RFa",
     "tabs_QfBJcy",
+    "images_with_text_scrolling_XKKeLA",
+    "image_with_text_overlay_QHYGbw",
     "faq_37bbf7",
     "1757164787486f866c",
     "contact_tGApiG",
