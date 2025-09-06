@@ -147,46 +147,6 @@
         "overlay_opacity": 0
       }
     },
-    "images_with_text_scrolling_pwNrze": {
-      "type": "images-with-text-scrolling",
-      "blocks": {
-        "item_YyX4Wk": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Heading 1",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        },
-        "item_Pfrn98": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Heading 2",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_YyX4Wk",
-        "item_Pfrn98"
-      ],
-      "name": "Images and text scrolling",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "show_counter": true,
-        "desktop_image_effect": "reveal",
-        "image_position": "end",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
     "multi_column_kCFiMh": {
       "type": "multi-column",
       "blocks": {
@@ -594,6 +554,33 @@
         "accordion_text_color": ""
       }
     },
+    "1757164787486f866c": {
+      "type": "apps",
+      "blocks": {
+        "loox_reviews_loox_dynamic_section_wcpGCf": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "only_photos": false,
+            "aggregated": false,
+            "limit": 20,
+            "hide_thumbnails": false,
+            "maxwidth": 1080,
+            "is_sample": true
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_dynamic_section_wcpGCf"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "contact_tGApiG": {
       "type": "contact",
       "name": "Contact form",
@@ -614,6 +601,33 @@
         "button_background": "",
         "button_text_color": ""
       }
+    },
+    "17571647850dd1b655": {
+      "type": "apps",
+      "blocks": {
+        "loox_reviews_loox_dynamic_section_A6dgRU": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "only_photos": false,
+            "aggregated": false,
+            "limit": 20,
+            "hide_thumbnails": false,
+            "maxwidth": 1080,
+            "is_sample": true
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_dynamic_section_A6dgRU"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
@@ -625,8 +639,9 @@
     "main",
     "text_with_icons_cX9RFa",
     "tabs_QfBJcy",
-    "images_with_text_scrolling_pwNrze",
     "faq_37bbf7",
-    "contact_tGApiG"
+    "1757164787486f866c",
+    "contact_tGApiG",
+    "17571647850dd1b655"
   ]
 }
