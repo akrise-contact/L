@@ -272,10 +272,16 @@
             "liquid": "<div id=\"stock-alert\" style=\"margin-top:10px; font-size:15px; color:#b91c1c; font-weight:500;\">\n  ⚠️ Stock limité – seulement <strong id=\"stock-number\">7</strong> unités restantes !\n</div>"
           }
         },
-        "liquid_WNbzQc": {
+        "liquid_WRwf4A": {
           "type": "liquid",
           "settings": {
-            "liquid": "<ul class=\"list-none space-y-2\">\n  <li>✨ Un éclat visible dès la 1ère utilisation </li>\n  <li>🫧 Des bulles magiques qui purifient la peau </li>\n  <li>🌿 Formule naturelle douce et efficace </li>\n  <li>🛡️ Adapté à tous les types de peaux </li>\n  <li>✅ Garantie satisfait ou remboursé 30 jours </li>\n</ul>"
+            "liquid": "<ul style=\"list-style: none; padding: 0; margin: 0;\">\n  <li style=\"display: flex; align-items: center; margin-bottom: 4px;\">\n    <span style=\"color: #74AA46; font-size: 16px; margin-right: 6px;\">✔</span>\n    <span style=\"color: #000; font-weight: 600;\">Un éclat visible dès la 1ère utilisation</span>\n  </li>\n  <li style=\"display: flex; align-items: center; margin-bottom: 4px;\">\n    <span style=\"color: #74AA46; font-size: 16px; margin-right: 6px;\">✔</span>\n    <span style=\"color: #000; font-weight: 600;\">Des bulles magiques qui purifient la peau</span>\n  </li>\n  <li style=\"display: flex; align-items: center; margin-bottom: 4px;\">\n    <span style=\"color: #74AA46; font-size: 16px; margin-right: 6px;\">✔</span>\n    <span style=\"color: #000; font-weight: 600;\">Formule naturelle douce et efficace</span>\n  </li>\n  <li style=\"display: flex; align-items: center; margin-bottom: 4px;\">\n    <span style=\"color: #74AA46; font-size: 16px; margin-right: 6px;\">✔</span>\n    <span style=\"color: #000; font-weight: 600;\">Adapté à tous les types de peaux</span>\n  </li>\n  \n</ul>"
+          }
+        },
+        "kaching_bundles_app_block_BRAraa": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "{{product}}"
           }
         },
         "buy_buttons": {
@@ -300,7 +306,8 @@
         "text_8kwRaB",
         "liquid_Ax79mw",
         "liquid_7R73i9",
-        "liquid_WNbzQc",
+        "liquid_WRwf4A",
+        "kaching_bundles_app_block_BRAraa",
         "buy_buttons",
         "liquid_PhiaPw"
       ],
@@ -475,6 +482,75 @@
         "text_color": "",
         "heading_color": "",
         "heading_gradient": ""
+      }
+    },
+    "before_after_image_W84V4A": {
+      "type": "before-after-image",
+      "name": "Before/after image",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Before/after",
+        "content": "<p>Showcase your product benefit by using before/after image comparison.</p>",
+        "expand_image": false,
+        "text_position": "start",
+        "before_after_text_position": "top",
+        "before_text": "Before",
+        "after_text": "After",
+        "drag_initial_position": 50,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "before_text_color": "#ffffff",
+        "after_text_color": "#ffffff",
+        "drag_cursor_background": "#ffffff",
+        "drag_cursor_color": "#000000"
+      }
+    },
+    "before_after_image_CyEfGh": {
+      "type": "before-after-image",
+      "name": "Before/after image",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "expand_image": false,
+        "text_position": "start",
+        "before_after_text_position": "top",
+        "before_text": "Before",
+        "after_text": "After",
+        "drag_initial_position": 50,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "before_text_color": "#ffffff",
+        "after_text_color": "#ffffff",
+        "drag_cursor_background": "#ffffff",
+        "drag_cursor_color": "#000000"
+      }
+    },
+    "before_after_image_DRgmFM": {
+      "type": "before-after-image",
+      "name": "Before/after image",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "expand_image": false,
+        "text_position": "start",
+        "before_after_text_position": "top",
+        "before_text": "Before",
+        "after_text": "After",
+        "drag_initial_position": 50,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "before_text_color": "#ffffff",
+        "after_text_color": "#ffffff",
+        "drag_cursor_background": "#ffffff",
+        "drag_cursor_color": "#000000"
       }
     },
     "images_with_text_scrolling_XKKeLA": {
@@ -731,6 +807,9 @@
     "main",
     "text_with_icons_cX9RFa",
     "tabs_QfBJcy",
+    "before_after_image_W84V4A",
+    "before_after_image_CyEfGh",
+    "before_after_image_DRgmFM",
     "images_with_text_scrolling_XKKeLA",
     "image_with_text_overlay_QHYGbw",
     "faq_37bbf7",
