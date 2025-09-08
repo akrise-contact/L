@@ -298,6 +298,12 @@
             "payment_button_text_color": "#4e9e03"
           }
         },
+        "liquid_aqwwJi": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"loved-by-customers\">\n  <span>🚨 Bientôt en rupture -  Stock faible</span>\n</div>\n\n<style>\n  .loved-by-customers {\n    background-color: #ffcccc;\n    color: #AD0000;\n    text-align: center;\n    padding: 6px;\n    margin-top: 20px; /* Adjust as needed */\n    border-radius: 20px; /* Adjust to desired pill shape */\n    width: 300px; /* Adjust width as needed */\n    margin-left: auto;\n    margin-right: auto;\n    font-size: 14px;\n    font-weight: \n  }\n</style>"
+          }
+        },
         "liquid_PhiaPw": {
           "type": "liquid",
           "settings": {
@@ -311,6 +317,7 @@
         "liquid_WRwf4A",
         "kaching_bundles_app_block_BRAraa",
         "buy_buttons",
+        "liquid_aqwwJi",
         "liquid_PhiaPw"
       ],
       "settings": {
@@ -331,106 +338,21 @@
         "input_text_color": ""
       }
     },
-    "text_with_icons_cX9RFa": {
-      "type": "text-with-icons",
-      "blocks": {
-        "item_TXNCmR": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-box",
-            "mobile_icon_width": 32,
-            "icon_width": 24,
-            "icon_background_type": "none",
-            "icon_background": "#4e9e03",
-            "icon_color": "#4e9e03",
-            "title": "Livraison Gratuite",
-            "content": ""
-          }
-        },
-        "item_PfHFNg": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-chat",
-            "mobile_icon_width": 32,
-            "icon_width": 24,
-            "icon_background_type": "none",
-            "icon_background": "#4e9e03",
-            "icon_color": "#4e9e03",
-            "title": "Support client 24/7",
-            "content": ""
-          }
-        },
-        "item_z8zbHn": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-lock",
-            "mobile_icon_width": 32,
-            "icon_width": 24,
-            "icon_background_type": "none",
-            "icon_background": "#4e9e03",
-            "icon_color": "#4e9e03",
-            "title": "Paiement sécurisé",
-            "content": ""
-          }
-        },
-        "item_LYG4gN": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-return",
-            "mobile_icon_width": 32,
-            "icon_width": 24,
-            "icon_background_type": "none",
-            "icon_background": "#4e9e03",
-            "icon_color": "#4e9e03",
-            "title": "Satisfait ou remboursé",
-            "content": ""
-          }
-        },
-        "item_YG6agh": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-star",
-            "mobile_icon_width": 32,
-            "icon_width": 24,
-            "icon_background_type": "none",
-            "icon_background": "#4e9e03",
-            "icon_color": "#4e9e03",
-            "title": "Qualité supérieure",
-            "content": ""
-          }
-        }
-      },
-      "block_order": [
-        "item_TXNCmR",
-        "item_PfHFNg",
-        "item_z8zbHn",
-        "item_LYG4gN",
-        "item_YG6agh"
-      ],
-      "name": "Text with icons",
+    "image_with_text_overlay_FPdX3G": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
       "settings": {
         "full_width": true,
-        "stack_on_mobile": false,
-        "title": "",
-        "heading_tag": "h5",
-        "text_alignment": "center",
-        "icon_spacing": "medium",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "custom_liquid_hnnJi9": {
-      "type": "custom-liquid",
-      "name": "Custom Liquid",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": true,
-        "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 10px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #AD0000; /* Text color */\n    font-weight: 500; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">Only 4 bags left at this price.</div>\n</div>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/LIVRAISON_GRATUITE.png",
+        "mobile_image": "shopify://shop_images/LIVRAISON_GRATUITE.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
       }
     },
     "tabs_QfBJcy": {
@@ -892,8 +814,7 @@
     "image_with_text_overlay_tYkkgm",
     "multi_column_kCFiMh",
     "main",
-    "text_with_icons_cX9RFa",
-    "custom_liquid_hnnJi9",
+    "image_with_text_overlay_FPdX3G",
     "tabs_QfBJcy",
     "rich_text_74Yz6Q",
     "slideshow_UQAeBQ",
