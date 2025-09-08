@@ -8,50 +8,50 @@
  * ------------------------------------------------------------
  */
 {
+  "order": [
+    "slideshow"
+  ],
   "sections": {
     "slideshow": {
-      "type": "slideshow",
-      "blocks": {
-        "slide-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/CopyofLuminthemeproductstemplate_20.png",
-            "content_max_width": 780,
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "",
-            "title": "Des bulles au service de votre peau",
-            "heading_tag": "h2",
-            "button_text": "Découvrir",
-            "button_link": "shopify://products/basil-glow-bubble-mask-livelya",
-            "text_color": "#ffffff",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 15,
-            "background": "",
-            "background_gradient": ""
-          }
-        }
-      },
       "block_order": [
         "slide-1"
       ],
+      "blocks": {
+        "slide-1": {
+          "settings": {
+            "background": "",
+            "background_gradient": "",
+            "button_background": "#ffffff",
+            "button_link": "shopify://products/basil-glow-bubble-mask-livelya",
+            "button_text": "Découvrir",
+            "button_text_color": "#000000",
+            "content_max_width": 780,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "heading_tag": "h2",
+            "image": "shopify://shop_images/CopyofLuminthemeproductstemplate_20.png",
+            "mobile_text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 15,
+            "subheading": "",
+            "text_color": "#ffffff",
+            "title": "Des bulles au service de votre peau"
+          },
+          "type": "image"
+        }
+      },
       "settings": {
-        "full_width": true,
         "allow_transparent_header": true,
-        "show_initial_transition": false,
-        "image_size": "auto",
-        "controls_type": "numbers",
-        "transition_type": "fade_with_text",
         "autoplay": true,
-        "cycle_speed": 6,
         "background": "#f2f2f2",
-        "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
-      }
+        "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)",
+        "controls_type": "numbers",
+        "cycle_speed": 6,
+        "full_width": true,
+        "image_size": "auto",
+        "show_initial_transition": false,
+        "transition_type": "fade_with_text"
+      },
+      "type": "slideshow"
     }
-  },
-  "order": [
-    "slideshow"
-  ]
+  }
 }
