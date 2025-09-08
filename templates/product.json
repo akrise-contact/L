@@ -370,7 +370,7 @@
           "type": "tab",
           "settings": {
             "title": "Ingrédients & Bienfaits",
-            "content": "<p>90g- Eau, argile kaolin, glycérine, extrait de feuille de basilic sacré (Ocimum Sanctum) et acide polyhydroxy (PHA).</p><p>Un mélange naturel, doux mais puissant, conçu pour purifier, hydrater, apaiser et exfolier légèrement.<br/><br/>Sans alcool, sans parfum, sans additifs agressifs.</p>",
+            "content": "<h4>Composition - 90g</h4><p><strong>Eau</strong> : Base hydratante pure qui facilite l'application et maintient la texture fluide du masque.</p><p><strong>Argile Kaolin</strong> : Argile blanche douce aux propriétés purifiantes et absorbantes, élimine l'excès de sébum sans assécher.</p><p><strong>Glycérine</strong> : Agent humectant naturel qui maintient l'hydratation de la peau et évite l'effet desséchant.</p><p><strong>Extrait de feuille de Basilic Sacré (Ocimum Sanctum)</strong> : Actif apaisant aux propriétés anti-inflammatoires et antioxydantes naturelles.</p><p><strong>Acide Polyhydroxy (PHA)</strong> : Exfoliant doux de nouvelle génération, plus toléré que les AHA, pour une peau lisse et éclatante.</p><p><strong>Formulation respectueuse</strong> : Sans alcool, sans parfum, sans additifs agressifs. Un mélange naturel conçu pour purifier, hydrater, apaiser et exfolier en douceur.</p>",
             "page": ""
           }
         },
@@ -558,7 +558,7 @@
         "transition_type": "fade_with_text",
         "autoplay": false,
         "cycle_speed": 4,
-        "background": "#F2F2F2",
+        "background": "#f2f2f2",
         "background_gradient": ""
       }
     },
