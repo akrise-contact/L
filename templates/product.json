@@ -263,8 +263,8 @@
         "loox_reviews_loox_rating_J8LM9j": {
           "type": "shopify://apps/loox-reviews/blocks/loox-rating/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
           "settings": {
-            "contentSize": 16,
-            "pattern": "",
+            "contentSize": 15,
+            "pattern": "(1582 Avis)",
             "hideText": false,
             "alignment": "left",
             "layout": "",
@@ -273,12 +273,6 @@
             "showAllReviews": false,
             "looxOpenFloatingWidget": false,
             "emptyRatingWidget": false
-          }
-        },
-        "liquid_Ax79mw": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div style=\"display: flex; align-items: center; gap: 4px; font-size: 18px;\">\n  {% for i in (1..5) %}\n    <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"#468C04 \" viewBox=\"0 0 24 24\" width=\"18\" height=\"18\">\n      <path d=\"M12 .587l3.668 7.571L24 9.748l-6 5.847L19.335 24 12 19.897 4.665 24 6 15.595 0 9.748l8.332-1.59z\"/>\n    </svg>\n  {% endfor %}\n  <span style=\"color: #333; font-size: 14px; margin-left: 4px;\">(1, 584 avis)</span>\n</div>"
           }
         },
         "liquid_WRwf4A": {
@@ -314,7 +308,6 @@
       "block_order": [
         "text_8kwRaB",
         "loox_reviews_loox_rating_J8LM9j",
-        "liquid_Ax79mw",
         "liquid_WRwf4A",
         "kaching_bundles_app_block_BRAraa",
         "buy_buttons",
@@ -493,73 +486,145 @@
         "heading_gradient": ""
       }
     },
-    "before_after_image_W84V4A": {
-      "type": "before-after-image",
-      "name": "Before/after image",
+    "rich_text_74Yz6Q": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_AFBk6e": {
+          "type": "subheading",
+          "settings": {
+            "text": "Pourquoi pas vous ?"
+          }
+        },
+        "heading_qAfyjw": {
+          "type": "heading",
+          "settings": {
+            "text": "Dès la 1ère utilisation",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_AFBk6e",
+        "heading_qAfyjw"
+      ],
+      "name": "Rich text",
       "settings": {
         "full_width": true,
-        "subheading": "",
-        "title": "Before/after",
-        "content": "<p>Showcase your product benefit by using before/after image comparison.</p>",
-        "expand_image": false,
-        "text_position": "start",
-        "before_after_text_position": "top",
-        "before_text": "Before",
-        "after_text": "After",
-        "drag_initial_position": 50,
-        "background": "",
+        "content_width": "small",
+        "text_position": "center",
+        "background": "#74aa46",
         "background_gradient": "",
-        "text_color": "",
-        "before_text_color": "#ffffff",
-        "after_text_color": "#ffffff",
-        "drag_cursor_background": "#ffffff",
-        "drag_cursor_color": "#000000"
+        "text_color": "#ffffff"
       }
     },
-    "before_after_image_CyEfGh": {
-      "type": "before-after-image",
-      "name": "Before/after image",
+    "slideshow_UQAeBQ": {
+      "type": "slideshow",
+      "blocks": {
+        "image_XT8DRU": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/1.png",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
+        },
+        "image_B7E644": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/4.png",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
+        },
+        "image_efPEN6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/3.png",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
+        },
+        "image_CiKyfm": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/2.png",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_XT8DRU",
+        "image_B7E644",
+        "image_efPEN6",
+        "image_CiKyfm"
+      ],
+      "name": "Slideshow",
       "settings": {
         "full_width": true,
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "expand_image": false,
-        "text_position": "start",
-        "before_after_text_position": "top",
-        "before_text": "Before",
-        "after_text": "After",
-        "drag_initial_position": 50,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "before_text_color": "#ffffff",
-        "after_text_color": "#ffffff",
-        "drag_cursor_background": "#ffffff",
-        "drag_cursor_color": "#000000"
-      }
-    },
-    "before_after_image_DRgmFM": {
-      "type": "before-after-image",
-      "name": "Before/after image",
-      "settings": {
-        "full_width": true,
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "expand_image": false,
-        "text_position": "start",
-        "before_after_text_position": "top",
-        "before_text": "Before",
-        "after_text": "After",
-        "drag_initial_position": 50,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "before_text_color": "#ffffff",
-        "after_text_color": "#ffffff",
-        "drag_cursor_background": "#ffffff",
-        "drag_cursor_color": "#000000"
+        "allow_transparent_header": true,
+        "show_initial_transition": false,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 4,
+        "background": "#F2F2F2",
+        "background_gradient": ""
       }
     },
     "images_with_text_scrolling_XKKeLA": {
@@ -816,9 +881,8 @@
     "main",
     "text_with_icons_cX9RFa",
     "tabs_QfBJcy",
-    "before_after_image_W84V4A",
-    "before_after_image_CyEfGh",
-    "before_after_image_DRgmFM",
+    "rich_text_74Yz6Q",
+    "slideshow_UQAeBQ",
     "images_with_text_scrolling_XKKeLA",
     "image_with_text_overlay_QHYGbw",
     "faq_37bbf7",
