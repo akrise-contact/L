@@ -1,0 +1,844 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image_with_text_overlay_qNYKrD": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "heading_BgNgVi": {
+          "type": "heading",
+          "settings": {
+            "text": "Des milliers de bulles contre vos points noirs",
+            "heading_tag": "h6"
+          }
+        },
+        "heading_KwJgti": {
+          "type": "heading",
+          "settings": {
+            "text": "Une peau parfaite en 5 min",
+            "heading_tag": "h1"
+          }
+        },
+        "heading_DnRYQW": {
+          "type": "heading",
+          "settings": {
+            "text": "4.8/5 ⭐ +1,500 avis clients",
+            "heading_tag": "h6"
+          }
+        }
+      },
+      "block_order": [
+        "heading_BgNgVi",
+        "heading_KwJgti",
+        "heading_DnRYQW"
+      ],
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Design_sans_titre_2156.png",
+        "mobile_image": "shopify://shop_images/Design_sans_titre_2156.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 43
+      }
+    },
+    "logo_list_PnH9aq": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_mdWfxt": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/logo-ELLE-500x281.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_KpbWfF": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Vogue-Logo-PNG.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_iJ7JCz": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/madspy-image-1756979453599.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_TQUVXW": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Marie-Claire-Logo-500x281.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_mdWfxt",
+        "logo_KpbWfF",
+        "logo_iJ7JCz",
+        "logo_TQUVXW"
+      ],
+      "name": "Logo list",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "title": "Vu sur:",
+        "content": "",
+        "text_alignment": "center",
+        "items_per_row": 5,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
+    "rich_text_JyHXaD": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_VmDeWj": {
+          "type": "heading",
+          "settings": {
+            "text": "Pourquoi choisir Basil Glow?",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_VmDeWj"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_tYkkgm": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/6_benefices151.png",
+        "mobile_image": "shopify://shop_images/6_benefices151.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "multi_column_kCFiMh": {
+      "type": "multi-column",
+      "blocks": {
+        "item_JJwARH": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/cccb4b06d702489997aa3b21beaa7390.HD-1080p-7.2Mbps-55064479.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_ExTUPn": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/58f3e21af80c4734a08a66e8f567cc11.HD-1080p-7.2Mbps-53342364_491a84df-ad47-4ec2-9bdb-2fd84d84a77b.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_PmeKBp": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/9c4e0c03008c4ee1b05905c9c386cb10.HD-1080p-4.8Mbps-56465435.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_LTkyBG": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/835244d7a9a1474fb72fd6d89e05b8ba.HD-1080p-7.2Mbps-53342386.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_mhRt4x": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/a885e32a52534709af06bc1e647d2799.HD-1080p-4.8Mbps-55064483.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_HBYcnd": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/5f6aba1e46b84e9980115ce43cc4e574.HD-1080p-4.8Mbps-55064481.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_JJwARH",
+        "item_ExTUPn",
+        "item_PmeKBp",
+        "item_LTkyBG",
+        "item_mhRt4x",
+        "item_HBYcnd"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "",
+        "content": "<h4>DÉJÀ + 50 000 FEMMES CONQUISES - Pourquoi pas vous ?</h4>",
+        "background": "#74aa46",
+        "background_gradient": "",
+        "text_color": "#ffffff"
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "text_8kwRaB": {
+          "type": "text",
+          "settings": {
+            "text": "<h1>LiveLya -Basil Glow Bubble Mask     </h1>"
+          }
+        },
+        "loox_reviews_loox_rating_J8LM9j": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-rating/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "contentSize": 16,
+            "pattern": "(1582 Avis)",
+            "hideText": false,
+            "alignment": "left",
+            "layout": "",
+            "textColor": "",
+            "starColor": "",
+            "showAllReviews": false,
+            "looxOpenFloatingWidget": false,
+            "emptyRatingWidget": false
+          }
+        },
+        "liquid_WRwf4A": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<ul style=\"list-style: none; padding: 0; margin: 0;\">\n  <li style=\"display: flex; align-items: center; margin-bottom: 4px;\">\n    <span style=\"color: #74AA46; font-size: 16px; margin-right: 6px;\">✔</span>\n    <span style=\"color: #000; font-weight: 600;\">Un éclat visible dès la 1ère utilisation</span>\n  </li>\n  <li style=\"display: flex; align-items: center; margin-bottom: 4px;\">\n    <span style=\"color: #74AA46; font-size: 16px; margin-right: 6px;\">✔</span>\n    <span style=\"color: #000; font-weight: 600;\">Des bulles magiques qui purifient la peau</span>\n  </li>\n  <li style=\"display: flex; align-items: center; margin-bottom: 4px;\">\n    <span style=\"color: #74AA46; font-size: 16px; margin-right: 6px;\">✔</span>\n    <span style=\"color: #000; font-weight: 600;\">Formule naturelle douce et efficace</span>\n  </li>\n  <li style=\"display: flex; align-items: center; margin-bottom: 4px;\">\n    <span style=\"color: #74AA46; font-size: 16px; margin-right: 6px;\">✔</span>\n    <span style=\"color: #000; font-weight: 600;\">Adapté à tous les types de peaux</span>\n  </li>\n  \n</ul>"
+          }
+        },
+        "kaching_bundles_app_block_BRAraa": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "{{product}}"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "#5fb90c",
+            "atc_button_text_color": "",
+            "payment_button_background": "#9e6767",
+            "payment_button_text_color": "#4e9e03"
+          }
+        },
+        "liquid_aqwwJi": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"loved-by-customers\">\n  <span>🚨 Bientôt en rupture -  Stock faible</span>\n</div>\n\n<style>\n  .loved-by-customers {\n    background-color: #ffcccc;\n    color: #AD0000;\n    text-align: center;\n    padding: 6px;\n    margin-top: 20px; /* Adjust as needed */\n    border-radius: 20px; /* Adjust to desired pill shape */\n    width: 300px; /* Adjust width as needed */\n    margin-left: auto;\n    margin-right: auto;\n    font-size: 14px;\n    font-weight: \n  }\n</style>"
+          }
+        },
+        "liquid_PhiaPw": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Payment Options</title>\n    <style>\n        body.unique-body-Pay123 {\n            font-family: Arial, sans-serif;\n            display: flex;\n            justify-content: center;\n            align-items: center;\n            height: 100vh;\n            margin: 0;\n            background-color: #f9f9f9;\n        }\n        .unique-payment-container-Xyz456 {\n            text-align: center;\n        }\n        .unique-payment-options-Abc789 {\n            display: flex;\n            justify-content: center;\n            gap: 10px;\n        }\n        .unique-payment-options-Abc789 img {\n            width: 50px;\n            height: auto;\n        }\n    </style>\n</head>\n<body class=\"unique-body-Pay123\">\n    <div class=\"unique-payment-container-Xyz456\">\n        <div class=\"unique-payment-options-Abc789\">\n            <img src=\"https://www.svgrepo.com/show/14823/amex.svg\" alt=\"AMEX\">\n            <img src=\"https://www.svgrepo.com/show/508402/apple-pay.svg\" alt=\"Apple Pay\">\n            <img src=\"https://www.svgrepo.com/show/508703/mastercard.svg\" alt=\"MasterCard\">\n            <img src=\"https://www.svgrepo.com/show/508716/paypal.svg\" alt=\"PayPal\">\n            <img src=\"https://www.svgrepo.com/show/508690/google-pay.svg\" alt=\"Google Pay\">\n            <img src=\"https://www.svgrepo.com/show/508730/visa-classic.svg\" alt=\"VISA\">\n        </div>\n    </div>\n</body>\n</html>"
+          }
+        }
+      },
+      "block_order": [
+        "text_8kwRaB",
+        "loox_reviews_loox_rating_J8LM9j",
+        "liquid_WRwf4A",
+        "kaching_bundles_app_block_BRAraa",
+        "buy_buttons",
+        "liquid_aqwwJi",
+        "liquid_PhiaPw"
+      ],
+      "settings": {
+        "full_width": true,
+        "show_fixed_add_to_cart": true,
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_bottom",
+        "mobile_media_size": "contained",
+        "mobile_carousel_control": "free_scroll",
+        "enable_video_autoplay": true,
+        "enable_video_looping": true,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
+    "image_with_text_overlay_FPdX3G": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/LIVRAISON_GRATUITE.png",
+        "mobile_image": "shopify://shop_images/LIVRAISON_GRATUITE.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "tabs_QfBJcy": {
+      "type": "tabs",
+      "blocks": {
+        "tab_MaDRjT": {
+          "type": "tab",
+          "settings": {
+            "title": "Caractéristique",
+            "content": "<p>✅ <strong>Purification Profonde des Pores & Points Noirs</strong><br/><br/>Grâce à l’eau carbonatée, au basilic sacré et aux PHA, ce masque pénètre en profondeur pour dissoudre les impuretés, réguler le sébum et révéler une peau plus lisse et fraîche à chaque utilisation.</p><p>✅ <strong>Formule Ultra-Douce, Tous Types de Peaux</strong><br/><br/>Composée de plantes premium et sans additifs controversés, cette formule est sûre, apaisante et efficace, même pour les peaux sensibles ou sujettes à l’acné.</p><p>✅ <strong>Résultats Cliniquement Prouvés</strong><br/><br/>Testé en laboratoire : purification des pores à hauteur de 23 %, réduction des points noirs et du sébum de plus de 50 % — sans irritation ni dessèchement, avec une composition 100 % naturelle.</p>",
+            "page": ""
+          }
+        },
+        "tab_x8EGK8": {
+          "type": "tab",
+          "settings": {
+            "title": "Ingrédients & Bienfaits",
+            "content": "<h4>Composition - 90g</h4><p><strong>Eau</strong> : Base hydratante pure qui facilite l'application et maintient la texture fluide du masque.</p><p><strong>Argile Kaolin</strong> : Argile blanche douce aux propriétés purifiantes et absorbantes, élimine l'excès de sébum sans assécher.</p><p><strong>Glycérine</strong> : Agent humectant naturel qui maintient l'hydratation de la peau et évite l'effet desséchant.</p><p><strong>Extrait de feuille de Basilic Sacré (Ocimum Sanctum)</strong> : Actif apaisant aux propriétés anti-inflammatoires et antioxydantes naturelles.</p><p><strong>Acide Polyhydroxy (PHA)</strong> : Exfoliant doux de nouvelle génération, plus toléré que les AHA, pour une peau lisse et éclatante.</p><p><strong>Formulation respectueuse</strong> : Sans alcool, sans parfum, sans additifs agressifs. Un mélange naturel conçu pour purifier, hydrater, apaiser et exfolier en douceur.</p>",
+            "page": ""
+          }
+        },
+        "tab_hi8UPx": {
+          "type": "tab",
+          "settings": {
+            "title": "Essai 30 jours – Satisfait ou remboursé",
+            "content": "<p>Essayez Basil Glow sans risque pendant 30 jours, et si vous n'êtes pas satisfait recevez une remboursement intégral !</p>",
+            "page": ""
+          }
+        },
+        "tab_Jtgjp8": {
+          "type": "tab",
+          "settings": {
+            "title": "Livraison gratuite à domicile",
+            "content": "<p>Votre commande est expédiée sous 24 à 48h, avec une livraison offerte en 5 à 10 jours ouvrés selon votre région.</p>",
+            "page": ""
+          }
+        },
+        "tab_nLT7VX": {
+          "type": "tab",
+          "settings": {
+            "title": "Service client 7/7j",
+            "content": "<p>Une question ? Un doute ?<br/><br/>Notre équipe te répond chaque jour, même le week-end.<br/><br/>Par email ou via notre formulaire : rapide, humain, efficace.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_MaDRjT",
+        "tab_x8EGK8",
+        "tab_hi8UPx",
+        "tab_Jtgjp8",
+        "tab_nLT7VX"
+      ],
+      "name": "Tabs",
+      "settings": {
+        "full_width": true,
+        "content_size": "small",
+        "subheading": "",
+        "title": "",
+        "text_alignment": "center",
+        "first_tab_open": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "images_with_text_scrolling_XKKeLA": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_hJtEKh": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-09-06_163428_2808ad8b-080b-46f6-acbc-c4aa4b356c27.png",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Préparation et application",
+            "content": "<p>Après avoir nettoyé votre visage,  appliquez une couche uniforme sur votre peau propre et sèche. Répartissez uniformément sur tout le visage.</p>"
+          }
+        },
+        "item_JfgbJQ": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-09-06_163447_9dd924ba-55d6-4d5a-93d0-7f1f77985f98.png",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Temps de pose magique",
+            "content": "<p>Attendez 3-5 minutes pour les bulles et regardez la magie opérer ! Les bulles commencent à se former sur votre visage. C'est le moment parfait pour prendre un selfie satisfaisant !</p>"
+          }
+        },
+        "item_XaPFrx": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-09-06_163542_81fbfc87-8a29-4693-82f5-80fde9677255.png",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Massage doux",
+            "content": "<p>Massez délicatement avec de l'eau<br/>Humidifiez vos mains avec un peu d'eau tiède et massez doucement votre visage en mouvements circulaires. Les bulles vont créer une mousse onctueuse.</p>"
+          }
+        },
+        "item_dEnjNK": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-09-06_163618_aadf6a12-b2a9-4efb-b0b9-2dac40300621.png",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Rinçage final",
+            "content": "<p>Rincez à l'eau tiède jusqu'à élimination complète du produit. Séchez en tapotant avec une serviette propre </p>"
+          }
+        },
+        "item_pn7qan": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-09-06_163641_69b222e0-bf15-4ca8-851b-28cbb2e865b0.png",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "✨ Résultat : Une peau purifiée, douce et éclatante !",
+            "content": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_hJtEKh",
+        "item_JfgbJQ",
+        "item_XaPFrx",
+        "item_dEnjNK",
+        "item_pn7qan"
+      ],
+      "name": "Images and text scrolling",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "show_counter": true,
+        "desktop_image_effect": "reveal",
+        "image_position": "end",
+        "background": "#74aa46",
+        "background_gradient": "",
+        "text_color": "#ffffff",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "rich_text_74Yz6Q": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_AFBk6e": {
+          "type": "subheading",
+          "settings": {
+            "text": "Résultats Cliniquement Prouvés"
+          }
+        },
+        "heading_qAfyjw": {
+          "type": "heading",
+          "settings": {
+            "text": "Dès la 1ère utilisation",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_AFBk6e",
+        "heading_qAfyjw"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "#74aa46"
+      }
+    },
+    "slideshow_UQAeBQ": {
+      "type": "slideshow",
+      "blocks": {
+        "image_XT8DRU": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/1.png",
+            "mobile_image": "shopify://shop_images/1.png",
+            "content_max_width": 740,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h4",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
+        },
+        "image_B7E644": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/4.png",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
+        },
+        "image_efPEN6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/3.png",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
+        },
+        "image_CiKyfm": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/2.png",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_XT8DRU",
+        "image_B7E644",
+        "image_efPEN6",
+        "image_CiKyfm"
+      ],
+      "name": "Slideshow",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "show_initial_transition": false,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 4,
+        "background": "#f2f2f2",
+        "background_gradient": ""
+      }
+    },
+    "image_with_text_overlay_QHYGbw": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Ajouter_un_titre_18802578-8274-4eca-a1c3-752e51fa2937.png",
+        "mobile_image": "shopify://shop_images/Ajouter_un_titre_18802578-8274-4eca-a1c3-752e51fa2937.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "faq_37bbf7": {
+      "type": "faq",
+      "blocks": {
+        "item_mRDrEK": {
+          "type": "item",
+          "settings": {
+            "title": "1. Pourquoi Basil Glow élimine mieux les points noirs que les autres masques ?",
+            "content": "<p>Contrairement aux masques traditionnels, il se transforme en mousse pétillante qui aspire impuretés et points noirs en profondeur, tout en apaisant la peau grâce au basilic sacré.</p>"
+          }
+        },
+        "item_XXxycw": {
+          "type": "item",
+          "settings": {
+            "title": "2. Convient-il à ma peau sensible ?",
+            "content": "<p>Oui ! Sa formule douce à base d’argile coréenne, sans parabènes, sulfates ni parfum, est adaptée même aux peaux réactives ou sujettes aux imperfections.</p><p>Le processus de bulles est 100 % doux. Vous ressentirez seulement une légère effervescence agréable, signe que le masque agit.</p>"
+          }
+        },
+        "item_cNzDYY": {
+          "type": "item",
+          "settings": {
+            "title": "3. Combien de fois par semaine dois-je l’utiliser ?",
+            "content": "<p>Nous conseillons 2 à 3 utilisations par semaine. Suffisamment puissant pour purifier en profondeur, assez doux pour un usage régulier.</p><p>En le laissant poser entre 3 et 5 minutes. C’est le temps nécessaire pour que les bulles se forment et agissent en profondeur.</p>"
+          }
+        },
+        "item_gdRriY": {
+          "type": "item",
+          "settings": {
+            "title": "4. Puis-je l’utiliser avec ma routine actuelle ?",
+            "content": "<p>Absolument. Utilisez-le après votre nettoyant et avant votre toner ou sérum. Il s’intègre facilement à toute routine de soin.</p>"
+          }
+        },
+        "item_ijbYWJ": {
+          "type": "item",
+          "settings": {
+            "title": "5. En combien de temps vais-je voir des résultats ?",
+            "content": "<p>Dès la première utilisation, la peau paraît plus nette et lumineuse. Après une semaine d’utilisation régulière, les tests cliniques montrent jusqu’à 50 % de réduction des points noirs et du sébum.</p>"
+          }
+        },
+        "item_PG9LrJ": {
+          "type": "item",
+          "settings": {
+            "title": "6. Et si je ne suis pas satisfait ?",
+            "content": "<p>Pas d’inquiétude : vous êtes couvert par notre garantie 30 jours satisfait ou remboursé. Si vous n’êtes pas ravi, nous vous remboursons sans poser de questions.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_mRDrEK",
+        "item_XXxycw",
+        "item_cNzDYY",
+        "item_gdRriY",
+        "item_ijbYWJ",
+        "item_PG9LrJ"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Vos Questions",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "",
+        "answer_time": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "#c4d6ae",
+        "background_gradient": "",
+        "text_color": "#ffffff",
+        "heading_color": "#ffffff",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "#1a1a1a",
+        "accordion_background": "#92bb6f",
+        "accordion_text_color": "#ffffff"
+      }
+    },
+    "text_with_icons_YAF96C": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_UWPxtP": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-return",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "#ffffff",
+            "icon_color": "#74aa46",
+            "title": "Satisfait ou remboursé",
+            "content": "<p>Nous sommes convaincus de la qualité de notre produit. C’est pourquoi vous bénéficiez de 30 jours pour l’essayer en toute sérénité</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_UWPxtP"
+      ],
+      "name": "Text with icons",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "title": "",
+        "heading_tag": "h5",
+        "text_alignment": "center",
+        "icon_spacing": "medium",
+        "background": "#c4d6ae",
+        "background_gradient": "",
+        "text_color": "#ffffff"
+      }
+    },
+    "1757164787486f866c": {
+      "type": "apps",
+      "blocks": {
+        "loox_reviews_loox_dynamic_section_wcpGCf": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "only_photos": false,
+            "aggregated": false,
+            "limit": 7,
+            "hide_thumbnails": false,
+            "maxwidth": 1080,
+            "is_sample": true
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_dynamic_section_wcpGCf"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "contact_tGApiG": {
+      "type": "contact",
+      "name": "Contact form",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Une question?",
+        "content": "<p>Notre équipe est là pour vous !</p>",
+        "text_position": "start",
+        "contact_form_size": "small",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "contact_background": "",
+        "contact_text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    }
+  },
+  "order": [
+    "image_with_text_overlay_qNYKrD",
+    "logo_list_PnH9aq",
+    "rich_text_JyHXaD",
+    "image_with_text_overlay_tYkkgm",
+    "multi_column_kCFiMh",
+    "main",
+    "image_with_text_overlay_FPdX3G",
+    "tabs_QfBJcy",
+    "images_with_text_scrolling_XKKeLA",
+    "rich_text_74Yz6Q",
+    "slideshow_UQAeBQ",
+    "image_with_text_overlay_QHYGbw",
+    "faq_37bbf7",
+    "text_with_icons_YAF96C",
+    "1757164787486f866c",
+    "contact_tGApiG"
+  ]
+}
