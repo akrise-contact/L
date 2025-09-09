@@ -12,23 +12,32 @@
     "image_with_text_overlay_qNYKrD": {
       "type": "image-with-text-overlay",
       "blocks": {
-        "subheading_kpaQET": {
-          "type": "subheading",
+        "heading_BgNgVi": {
+          "type": "heading",
           "settings": {
-            "text": "Découvrez le secret beauté coréen"
+            "text": "Des milliers de bulles contre vos points noirs",
+            "heading_tag": "h6"
           }
         },
         "heading_KwJgti": {
           "type": "heading",
           "settings": {
-            "text": "Des milliers de bulles qui transforment votre peau en 5 minutes.",
-            "heading_tag": "h2"
+            "text": "Une peau parfaite en 5 min",
+            "heading_tag": "h1"
+          }
+        },
+        "heading_DnRYQW": {
+          "type": "heading",
+          "settings": {
+            "text": "4.8/5 ⭐ +1,500 avis clients",
+            "heading_tag": "h6"
           }
         }
       },
       "block_order": [
-        "subheading_kpaQET",
-        "heading_KwJgti"
+        "heading_BgNgVi",
+        "heading_KwJgti",
+        "heading_DnRYQW"
       ],
       "name": "Image with text overlay",
       "settings": {
