@@ -150,19 +150,6 @@
     "multi_column_kCFiMh": {
       "type": "multi-column",
       "blocks": {
-        "item_HBYcnd": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/5f6aba1e46b84e9980115ce43cc4e574.HD-1080p-4.8Mbps-55064481.mp4",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
         "item_JJwARH": {
           "type": "item",
           "settings": {
@@ -227,15 +214,28 @@
             "link_text": "",
             "link_style": "link"
           }
+        },
+        "item_HBYcnd": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/5f6aba1e46b84e9980115ce43cc4e574.HD-1080p-4.8Mbps-55064481.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
         }
       },
       "block_order": [
-        "item_HBYcnd",
         "item_JJwARH",
         "item_ExTUPn",
         "item_PmeKBp",
         "item_LTkyBG",
-        "item_mhRt4x"
+        "item_mhRt4x",
+        "item_HBYcnd"
       ],
       "name": "Multi-column",
       "settings": {
