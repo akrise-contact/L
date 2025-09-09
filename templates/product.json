@@ -741,6 +741,39 @@
         "accordion_text_color": "#ffffff"
       }
     },
+    "text_with_icons_YAF96C": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_UWPxtP": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-return",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "#ffffff",
+            "icon_color": "#74aa46",
+            "title": "Satisfait ou remboursé",
+            "content": "<p>Nous sommes convaincus de la qualité de notre produit. C’est pourquoi vous bénéficiez de 30 jours pour l’essayer en toute sérénité</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_UWPxtP"
+      ],
+      "name": "Text with icons",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "title": "",
+        "heading_tag": "h5",
+        "text_alignment": "center",
+        "icon_spacing": "medium",
+        "background": "#c4d6ae",
+        "background_gradient": "",
+        "text_color": "#ffffff"
+      }
+    },
     "1757164787486f866c": {
       "type": "apps",
       "blocks": {
@@ -804,6 +837,7 @@
     "slideshow_UQAeBQ",
     "image_with_text_overlay_QHYGbw",
     "faq_37bbf7",
+    "text_with_icons_YAF96C",
     "1757164787486f866c",
     "contact_tGApiG"
   ]
