@@ -257,7 +257,7 @@
         "text_8kwRaB": {
           "type": "text",
           "settings": {
-            "text": "<h3>LiveLya -Basil Glow Bubble Mask     </h3>"
+            "text": "<h1>LiveLya -Basil Glow Bubble Mask     </h1>"
           }
         },
         "loox_reviews_loox_rating_J8LM9j": {
@@ -461,12 +461,13 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/1.png",
-            "content_max_width": 780,
+            "mobile_image": "shopify://shop_images/1.png",
+            "content_max_width": 740,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "subheading": "",
             "title": "",
-            "heading_tag": "h0",
+            "heading_tag": "h4",
             "button_text": "",
             "button_link": "",
             "text_color": "#ffffff",
