@@ -14,14 +14,6 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "links": {
-          "type": "links",
-          "settings": {
-            "menu": "footer",
-            "show_menu_title": true,
-            "menu_title": ""
-          }
-        },
         "links_Marx7a": {
           "type": "links",
           "settings": {
@@ -32,13 +24,12 @@
         }
       },
       "block_order": [
-        "links",
         "links_Marx7a"
       ],
       "settings": {
         "show_social_media": true,
         "show_payment_icons": true,
-        "show_policy_links": false,
+        "show_policy_links": true,
         "show_country_selector": true,
         "show_country_flag": true,
         "show_country_name": true,
