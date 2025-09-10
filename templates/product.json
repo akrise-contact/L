@@ -421,7 +421,7 @@
             "image": "shopify://shop_images/Capture_d_ecran_2025-09-06_163428_2808ad8b-080b-46f6-acbc-c4aa4b356c27.png",
             "icon": "none",
             "icon_width": 48,
-            "title": "Préparation et application",
+            "title": "Application",
             "content": "<p>Après avoir nettoyé votre visage,  appliquez une couche uniforme sur votre peau propre et sèche. Répartissez uniformément sur tout le visage.</p>"
           }
         },
@@ -431,7 +431,7 @@
             "image": "shopify://shop_images/Capture_d_ecran_2025-09-06_163447_9dd924ba-55d6-4d5a-93d0-7f1f77985f98.png",
             "icon": "none",
             "icon_width": 48,
-            "title": "Temps de pose magique",
+            "title": "Temps de pose",
             "content": "<p>Attendez 3-5 minutes pour les bulles et regardez la magie opérer ! Les bulles commencent à se former sur votre visage. C'est le moment parfait pour prendre un selfie satisfaisant !</p>"
           }
         },
@@ -461,8 +461,8 @@
             "image": "shopify://shop_images/Capture_d_ecran_2025-09-06_163641_69b222e0-bf15-4ca8-851b-28cbb2e865b0.png",
             "icon": "none",
             "icon_width": 48,
-            "title": "✨ Résultat : Une peau purifiée, douce et éclatante !",
-            "content": ""
+            "title": "✨ Résultat",
+            "content": "<p>Une peau purifiée, douce et éclatante !</p>"
           }
         }
       },
