@@ -398,22 +398,13 @@
             "content": "<p>Votre commande est expédiée sous 24 à 48h, avec une livraison offerte en 5 à 10 jours ouvrés selon votre région.</p>",
             "page": ""
           }
-        },
-        "tab_nLT7VX": {
-          "type": "tab",
-          "settings": {
-            "title": "Service client 7/7j",
-            "content": "<p>Une question ? Un doute ?<br/><br/>Notre équipe te répond chaque jour, même le week-end.<br/><br/>Par email ou via notre formulaire : rapide, humain, efficace.</p>",
-            "page": ""
-          }
         }
       },
       "block_order": [
         "tab_MaDRjT",
         "tab_x8EGK8",
         "tab_hi8UPx",
-        "tab_Jtgjp8",
-        "tab_nLT7VX"
+        "tab_Jtgjp8"
       ],
       "name": "Tabs",
       "settings": {
