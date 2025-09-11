@@ -260,6 +260,115 @@
         "text_color": "#ffffff"
       }
     },
+    "rich_text_74Yz6Q": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_AFBk6e": {
+          "type": "subheading",
+          "settings": {
+            "text": "Résultats Cliniquement Prouvés"
+          }
+        },
+        "heading_qAfyjw": {
+          "type": "heading",
+          "settings": {
+            "text": "Dès la 1ère utilisation",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_AFBk6e",
+        "heading_qAfyjw"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "#74aa46"
+      }
+    },
+    "multi_column_gYpHTD": {
+      "type": "multi-column",
+      "blocks": {
+        "item_tj4Jbg": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/1.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_4Dy9yH": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/3.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_AtPf3H": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/4.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_HgbE8M": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/2.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_tj4Jbg",
+        "item_4Dy9yH",
+        "item_AtPf3H",
+        "item_HgbE8M"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "#74aa46",
+        "background_gradient": "",
+        "text_color": "#ffffff"
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -487,148 +596,6 @@
         "heading_gradient": ""
       }
     },
-    "rich_text_74Yz6Q": {
-      "type": "rich-text",
-      "blocks": {
-        "subheading_AFBk6e": {
-          "type": "subheading",
-          "settings": {
-            "text": "Résultats Cliniquement Prouvés"
-          }
-        },
-        "heading_qAfyjw": {
-          "type": "heading",
-          "settings": {
-            "text": "Dès la 1ère utilisation",
-            "heading_tag": "h2",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "subheading_AFBk6e",
-        "heading_qAfyjw"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "#ffffff",
-        "background_gradient": "",
-        "text_color": "#74aa46"
-      }
-    },
-    "slideshow_UQAeBQ": {
-      "type": "slideshow",
-      "blocks": {
-        "image_XT8DRU": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/1.png",
-            "mobile_image": "shopify://shop_images/1.png",
-            "content_max_width": 740,
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "",
-            "title": "",
-            "heading_tag": "h4",
-            "button_text": "",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0,
-            "background": "",
-            "background_gradient": ""
-          }
-        },
-        "image_B7E644": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/4.png",
-            "content_max_width": 780,
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "",
-            "title": "",
-            "heading_tag": "h0",
-            "button_text": "",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0,
-            "background": "",
-            "background_gradient": ""
-          }
-        },
-        "image_efPEN6": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/3.png",
-            "content_max_width": 780,
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "",
-            "title": "",
-            "heading_tag": "h0",
-            "button_text": "",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0,
-            "background": "",
-            "background_gradient": ""
-          }
-        },
-        "image_CiKyfm": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/2.png",
-            "content_max_width": 780,
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "",
-            "title": "",
-            "heading_tag": "h0",
-            "button_text": "",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0,
-            "background": "",
-            "background_gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_XT8DRU",
-        "image_B7E644",
-        "image_efPEN6",
-        "image_CiKyfm"
-      ],
-      "name": "Slideshow",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": true,
-        "show_initial_transition": false,
-        "image_size": "auto",
-        "controls_type": "dots",
-        "transition_type": "fade_with_text",
-        "autoplay": false,
-        "cycle_speed": 4,
-        "background": "#f2f2f2",
-        "background_gradient": ""
-      }
-    },
     "image_with_text_overlay_QHYGbw": {
       "type": "image-with-text-overlay",
       "name": "Image with text overlay",
@@ -811,12 +778,12 @@
     "rich_text_JyHXaD",
     "image_with_text_overlay_tYkkgm",
     "multi_column_kCFiMh",
+    "rich_text_74Yz6Q",
+    "multi_column_gYpHTD",
     "main",
     "image_with_text_overlay_FPdX3G",
     "tabs_QfBJcy",
     "images_with_text_scrolling_XKKeLA",
-    "rich_text_74Yz6Q",
-    "slideshow_UQAeBQ",
     "image_with_text_overlay_QHYGbw",
     "faq_37bbf7",
     "text_with_icons_YAF96C",
